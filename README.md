@@ -6,6 +6,7 @@ The goal of this Time Series project was to analyze Tesla's stock trend using Al
 
 I will aim to demonstrate both the code and the stock market aspect, in a way that a non-technical or inexperienced audience will understand! 
 
-![Matplotlib Graph](https://github.com/aladin94/Time-Series-Analysis-of-Tesla-Stock/blob/master/Time%20Series%20MATplotlib.jpg)
+| Matplotlib             |  Plotly |
+:-------------------------:|:-------------------------:
+![](https://github.com/aladin94/Time-Series-Analysis-of-Tesla-Stock/blob/master/Time%20Series%20MATplotlib.jpg)  |  ![](https://github.com/aladin94/Time-Series-Analysis-of-Tesla-Stock/blob/master/newplot%20(1).png)
 
-![Matplotlib Graph](https://github.com/aladin94/Time-Series-Analysis-of-Tesla-Stock/blob/master/newplot%20(1).png)
